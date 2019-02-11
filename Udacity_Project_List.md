@@ -13,7 +13,7 @@ Here is where I link to all of the projects I've worked on with Udacity.
 </br>
 <b>Certificate in Data Analytics:</b>
 <ul style="list-style-type:circle;">
- <li><b> 
+ <li>
    <li><b>Exploring US Bikeshare Data</b>: Wrote python script to create interactive experience to present bike share statistics from three cities. <a href="https://github.com/lindswarne/Projects-to-share/blob/master/Python_BikesShare_Analysis.py">Exploring US Bikeshare Data</a> </li>
    <li><b>Investigate NICS Gun Data</b>: Cleaned and analyzed gun ownership data using a python pandas library using Jupyter notebooks. <a href="https://github.com/lindswarne/Projects-to-share/blob/master/Investigate_NICS_Gun_Data.ipynby">Investigate NICS Gun Data</a> </li>
    <li><b>Analyze A/B Test Results</b>: Used A/B test data from an e-commerce web page to determine what (or if) changes should be made to a page. <a href="https://github.com/lindswarne/Projects-to-share/blob/master/Analyze_ab_test_results_notebook.ipynb">Analyze A/B Test Results</a> </li>
