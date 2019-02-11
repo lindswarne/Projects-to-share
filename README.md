@@ -12,3 +12,4 @@ Here is where I link to all of the projects I've worked on with Udacity.
 <b>Certificate in Data Analytics:</b>
 <ul style="list-style-type:circle;">
  <li><b> 
+ <li
